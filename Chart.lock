@@ -1,0 +1,9 @@
+dependencies:
+- name: alertmanager
+  repository: https://prometheus-community.github.io/helm-charts
+  version: 0.15.0
+- name: cert-manager
+  repository: ""
+  version: v1.7.1
+digest: sha256:7a7a7f0993685f02d73d0bc636847611119149eae2562c665e0577bcf595163d
+generated: "2022-02-16T22:45:41.051838936+01:00"
